@@ -1,4 +1,4 @@
-# <img src="/src/img/icon48.png" align="absmiddle"> The Awesome Suspender
+# 😎 The Awesome Suspender
 
 ### Read this if you have lost tabs from your browser
 
