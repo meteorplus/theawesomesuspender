@@ -1,6 +1,6 @@
 /*global chrome, html2canvas */
 /*
- * The Great Suspender
+ * The Awesome Suspender
  * Copyright (C) 2017 Dean Oemcke
  * Available under GNU GENERAL PUBLIC LICENSE v2
  * http://github.com/deanoemcke/thegreatsuspender

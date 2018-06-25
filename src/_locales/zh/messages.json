@@ -1,8 +1,8 @@
 {
     // manifest.json
-    "ext_extension_name": { "message": "The Great Suspender" },
+    "ext_extension_name": { "message": "The Awesome Suspender" },
     "ext_extension_description": { "message": "凍結暫時用不到的分頁，達到系統資源釋放。" }, //Frozen temporary useless paging, to release system resources.
-    "ext_default_title": { "message": "The Great Suspender" },
+    "ext_default_title": { "message": "The Awesome Suspender" },
     "ext_cmd_suspend_tab_description": { "message": "冻结/恢复当前页面" }, //Freeze / resume the current page
     "ext_cmd_unsuspend_tab_description": { "message": "恢復目前的分頁" }, //Recover the current tab
     "ext_cmd_suspend_active_window_description": { "message": "凍結目前視窗中所有的分頁" }, //Freeze all the tabs in the current window
@@ -26,7 +26,7 @@
     "html_about_browserstack": { "message": "browserstack" },
     "html_about_browserstack_prefix": { "message": "同時也謝謝" }, //Also thank you
     "html_about_browserstack_suffix": { "message": "提供免費的 Chrome 測試工具" }, //Provide free Chrome testing tools
-    "html_about_feeling_generous": { "message": "如果你喜歡 The Great Suspender，也許可以..." }, //If you like The Great Suspender, maybe ...
+    "html_about_feeling_generous": { "message": "如果你喜歡 The Awesome Suspender，也許可以..." }, //If you like The Awesome Suspender, maybe ...
     "html_about_already_donated": { "message": "準備捐款？" }, //Ready to donate?
     "html_about_thanks_for_your_donation": { "message": "非常謝謝你的捐款支持" }, //Thank you very much for your donation support
     "html_about_want_to_donate_again": { "message": "想要再次捐款" }, //Want to donate again
@@ -40,7 +40,7 @@
 
     // Important notice page
     "html_notice_title": { "message": "通知" }, //Notice
-    "html_notice_important_notice": { "message": "來自 The Great Suspender的 重要通知" }, //Important Notice from The Great Suspender
+    "html_notice_important_notice": { "message": "來自 The Awesome Suspender的 重要通知" }, //Important Notice from The Awesome Suspender
 
     // Options page
     "html_options_title": { "message": "設定" }, //set up
@@ -85,7 +85,7 @@
     "html_options_whitelist_tooltip_line1": { "message": "在新行上添加要列入白名單的每個頁面的URL。例如:" }, //? Add the URL of each page to be whitelisted on the new line. E.g
     "html_options_whitelist_tooltip_line2": { "message": "要在一行中將多個網站列入白名單，可以指定網址的一部分:" }, //? To whitelist multiple sites on a single line, you can specify a portion of the URL:
     "html_options_whitelist_tooltip_line3": { "message": "您還可以通過以正斜杠括住文本來指定正則表達式:" }, //? You can also specify a regular expression by enclosing the text with a forward slash
-    "html_options_other_enable_context_menu": { "message": "把 The Great Suspender 加到右鍵選單" }, //Add The Great Suspender to the right-click menu u
+    "html_options_other_enable_context_menu": { "message": "把 The Awesome Suspender 加到右鍵選單" }, //Add The Awesome Suspender to the right-click menu u
     "html_options_other_enable_sync": { "message": "在不同系統之間同步設置" }, //? Set synchronization between different systems
     "html_options_other_enable_sync_tooltip_line1a": { "message": "擴展設置將在所有使用相同配置文件登錄的Chrome瀏覽器中同步" }, //? Extensions will be synced in all Chrome sign-ins that use the same profile
     "html_options_other_enable_sync_tooltip_line1b": { "message": "。" },
@@ -161,7 +161,7 @@
     // Update page
     "html_update_title": { "message": "更新" }, //? Updated
     "html_update_heading2": { "message": "即将变得更好" }, //? It is about to get better
-    "html_update_info_line1": { "message": "一個新版本的The Great Suspender已準備好安裝。" }, //? A new version of The Great Suspender is ready for installation.
+    "html_update_info_line1": { "message": "一個新版本的The Awesome Suspender已準備好安裝。" }, //? A new version of The Awesome Suspender is ready for installation.
     "html_update_info_line2": { "message": "请继续前保存当前选项卡会话的备份。" }, //? Please save the backup of the current tab session before proceeding.
     "html_update_info_line2_alternate_prefix": { "message": "强烈建议您在继续之前从 " }, //? We strongly recommend that you save a backup of your current session from
     "html_update_info_line2_alternate_suffix": { "message": " 保存当前会话的备份。" }, //? before proceeding.

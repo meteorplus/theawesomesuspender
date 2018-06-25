@@ -1,8 +1,8 @@
 {
     // manifest.json
-    "ext_extension_name": { "message": "The Great Suspender" },
+    "ext_extension_name": { "message": "The Awesome Suspender" },
     "ext_extension_description": { "message": "Automatically suspends unused tabs to free up system resources" },
-    "ext_default_title": { "message": "The Great Suspender" },
+    "ext_default_title": { "message": "The Awesome Suspender" },
     "ext_cmd_suspend_tab_description": { "message": "Suspend/Unsuspend active tab" },
     "ext_cmd_unsuspend_tab_description": { "message": "Unsuspend active tab" },
     "ext_cmd_suspend_active_window_description": { "message": "Suspend all other tabs in active window" },
@@ -26,7 +26,7 @@
     "html_about_browserstack": { "message": "browserstack" },
     "html_about_browserstack_prefix": { "message": "Thank you also to" },
     "html_about_browserstack_suffix": { "message": "for providing free chrome testing tools." },
-    "html_about_feeling_generous": { "message": "If you like The Great Suspender &amp; you're feeling generous..." },
+    "html_about_feeling_generous": { "message": "If you like The Awesome Suspender &amp; you're feeling generous..." },
     "html_about_already_donated": { "message": "Already donated?" },
     "html_about_thanks_for_your_donation": { "message": "Thanks a lot for your donation. You've made thank you cat happy." },
     "html_about_want_to_donate_again": { "message": "Want to donate again?" },
@@ -40,7 +40,7 @@
 
     // Important notice page
     "html_notice_title": { "message": "Notice" },
-    "html_notice_important_notice": { "message": "Important notice from The Great Suspender" },
+    "html_notice_important_notice": { "message": "Important notice from The Awesome Suspender" },
 
     // Options page
     "html_options_title": { "message": "Options" },
@@ -85,7 +85,7 @@
     "html_options_whitelist_tooltip_line1": { "message": "Add the URL of each page you want to whitelist on a new line. For example:" },
     "html_options_whitelist_tooltip_line2": { "message": "To whitelist multiple sites in one line you can specify part of the url instead:" },
     "html_options_whitelist_tooltip_line3": { "message": "You can also specify regular expressions by enclosing the text in forward slashes:" },
-    "html_options_other_enable_context_menu": { "message": "Add The Great Suspender to right-click context menu" },
+    "html_options_other_enable_context_menu": { "message": "Add The Awesome Suspender to right-click context menu" },
     "html_options_other_enable_sync": { "message": "Sync settings between different systems" },
     "html_options_other_enable_sync_tooltip_line1a": { "message": "Extension settings will be synchronised across all chrome browsers which are logged in" },
     "html_options_other_enable_sync_tooltip_line1b": { "message": "with the same profile." },
@@ -161,7 +161,7 @@
     // Update page
     "html_update_title": { "message": "Update" },
     "html_update_heading2": { "message": "is about to get greater" },
-    "html_update_info_line1": { "message": "A new version of The Great Suspender is ready to be installed." },
+    "html_update_info_line1": { "message": "A new version of The Awesome Suspender is ready to be installed." },
     "html_update_info_line2": { "message": "Please save a backup of your current tab session before continuing." },
     "html_update_info_line2_alternate_prefix": { "message": "It is strongly recommended that you save a backup of your current session from " },
     "html_update_info_line2_alternate_suffix": { "message": " before continuing with the update." },

@@ -37,8 +37,8 @@ module.exports = function (grunt) {
                 },
                 options: {
                     replacements: [{
-                        pattern: /The Great Suspender/ig,
-                        replacement: 'The Great Tester'
+                        pattern: /The Awesome Suspender/ig,
+                        replacement: 'The Awesome Tester'
                     }]
                 }
             },

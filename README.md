@@ -1,4 +1,4 @@
-# <img src="/src/img/icon48.png" align="absmiddle"> The Great Suspender
+# <img src="/src/img/icon48.png" align="absmiddle"> The Awesome Suspender
 
 ### Read this if you have lost tabs from your browser
 
@@ -8,13 +8,13 @@ Please contribute if you have any extra insight on alternative methods for tab r
 
 ### Welcome
 
-"The Great Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
+"The Awesome Suspender" is a free and open-source Google Chrome extension for people who find that chrome is consuming too much system resource or suffer from frequent chrome crashing. Once installed and enabled, this extension will automatically *suspend* tabs that have not been used for a while, freeing up memory and cpu that the tab was consuming.
 
 If you have suggestions or problems using the extension, please [submit a bug or a feature request](https://github.com/deanoemcke/thegreatsuspender/issues/).
 
 ### Chrome Web Store
 
-The Great Suspender is also [available via the official Chrome Web Store](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg).
+The Awesome Suspender is also [available via the official Chrome Web Store](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg).
 
 Please note that the webstore version may be significantly behind the latest version here. That is because I try to keep webstore updates down to a minimum due to their [disruptive effect](https://github.com/deanoemcke/thegreatsuspender/issues/526).
 
