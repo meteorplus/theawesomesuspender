@@ -732,25 +732,25 @@ var gsStorage = {
             // When migrating old settings, disable sync by default.
             // For new installs, we want this to default to on.
             this.setOption(this.SYNC_SETTINGS, false);
-
-            chrome.cookies.getAll({}, function (cookies) {
-                var scrollPosByTabId = {};
-                cookies.forEach(function (cookie) {
-                    if (cookie.name.indexOf('gsScrollPos') === 0) {
-                        if (cookie.value && cookie.value !== '0') {
-                            var tabId = cookie.name.substr(12);
-                            scrollPosByTabId[tabId] = cookie.value;
-                        }
-                        var prefix = cookie.secure ? 'https://' : 'http://';
-                        if (cookie.domain.charAt(0) === '.') {
-                            prefix += 'www';
-                        }
-                        var url = prefix + cookie.domain + cookie.path;
-                        chrome.cookies.remove({ 'url': url, 'name': cookie.name });
-                    }
-                });
-                tgs.scrollPosByTabId = scrollPosByTabId;
-            });
+            //No need for this!!
+            // chrome.cookies.getAll({}, function (cookies) {
+            //     var scrollPosByTabId = {};
+            //     cookies.forEach(function (cookie) {
+            //         if (cookie.name.indexOf('gsScrollPos') === 0) {
+            //             if (cookie.value && cookie.value !== '0') {
+            //                 var tabId = cookie.name.substr(12);
+            //                 scrollPosByTabId[tabId] = cookie.value;
+            //             }
+            //             var prefix = cookie.secure ? 'https://' : 'http://';
+            //             if (cookie.domain.charAt(0) === '.') {
+            //                 prefix += 'www';
+            //             }
+            //             var url = prefix + cookie.domain + cookie.path;
+            //             chrome.cookies.remove({ 'url': url, 'name': cookie.name });
+            //         }
+            //     });
+            //     tgs.scrollPosByTabId = scrollPosByTabId;
+            // });
         }
     }
 };
